@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a description of a post.
+title: Yellow Flowers.
+description: Discover beautiful yellow flowers with this currated list.
 date: 2018-05-01
 tags:
   - another tag
