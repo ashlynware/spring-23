@@ -1,6 +1,6 @@
 ---
-title: This is my fourth post.
-description: This is a post on My Blog about touchpoints and circling wagons.
+title: Green Buds.
+description: These enticing flowers keep their colors hidden until they bloom.
 date: 2018-09-30
 tags: second tag
 layout: layouts/post.njk
