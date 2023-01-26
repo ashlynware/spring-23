@@ -1,6 +1,6 @@
 ---
-title: This is the second post.
-description: This is the description of the second post.
+title: Blue Blooms.
+description: These flowers are blooming with bold blue hues.
 date: 2018-07-04
 tags:
   - number 2
