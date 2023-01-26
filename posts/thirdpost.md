@@ -1,6 +1,6 @@
 ---
-title: This is the third post.
-description: This is the description of the third post.
+title: White Petals.
+description: Simple and delicate, these striking white flowers are breathtaking.
 date: 2018-08-24
 tags:
   - second tag
