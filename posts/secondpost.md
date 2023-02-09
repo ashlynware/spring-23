@@ -1,12 +1,12 @@
 ---
 title: Blue Blooms.
-description: These flowers are blooming with bold blue hues.
+description: These flowers are blooming with bold, nature-defying blue hues.
 date: 2018-07-04
 tags:
   - number 2
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+It’s true that blue flowers are the most beautiful, but they aren’t rare. They’re actually nonexistent in nature! The prettiest blue pigment in Irises, Oxford Blues, Cornflowers, Hydrangeas, and others is artificial, but that’s not to say this list of blue flowers isn’t a breathtaking feat of nature. We’re laying down the truth about these ocean and sky mimicking blooms with their origins and cultural meanings. With preparation, these blue blooms will light up any bouquet, vase, room, or garden with their alluring color.
 
 ## Section Header
 
