@@ -1,13 +1,13 @@
 ---
 title: White Petals.
-description: Simple and delicate, these striking white flowers are breathtaking.
+description: Simple and delicate, these striking white flowers are breathtaking and full of symbolic meanings.
 date: 2018-08-24
 tags:
   - second tag
   - posts with two tags
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+White flowers are beautiful, delicate, and full of deep meaning. Symbols of peace, purity, sympathy, and love, white flowers such as Dahlias, Azaleas, and Lilys illicit feelings well beyond the desire of beauty. These symbolic flowers look incredible in any vase, bouquet or garden. With tender cultivation, these flowers blossom into magnificent works of nature. Whether you’re an experienced green thumb or a beginner gardener, you can make these flowers shine and appreciate not only their beauty but their symbolic meaning as well.
 
 ``` js/2/4
 // this is a command
