@@ -1,15 +1,13 @@
 ---
 title: Yellow Flowers.
-description: Discover beautiful yellow flowers with this currated list.
+description: This curated list of vibrant yellow blooms are beautiful additions to you garden.
 date: 2018-05-01
 tags:
   - another tag
 layout: layouts/post.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Vibrant yellow blooms are beautiful additions to your garden. From sunflowers to marigolds, the prettiest happy-go-lucky-colored flowers can bring a smile to anyone’s face when they’re added to foliage, indoor plants, bouquets, or gardens. With the right preparation and care, you’ll see these gorgeous perennial blooms by summertime! But before you go to the store, florist, or nursery, be sure you know that name of the specific yellow flower you want, and what care it requires.
 
 ## Section Header
 
